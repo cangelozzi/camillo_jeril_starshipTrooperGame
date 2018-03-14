@@ -1,0 +1,15 @@
+<svg id="alien" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 219">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>alien1_black</title>
+  <polygon points="0 106 0 193 32 193 32 137 55 137 55 193 81 193 81 219 140 219 140 184 86 184 86 162 214 162 214 186 160 186 160 219 219 219 219 193 244 193 244 140 266 140 266 194 300 194 300 105 270 105 270 80 245 80 245 54 216 54 216 33 244 33 244 0 212 0 212 27 186 27 186 52 112 52 112 26 86 26 86 0 52 0 52 35 79 35 79 53 52 53 52 78 26 78 26 106 0 106"/>
+  <rect id="eyeLeft" class="cls-1" x="83" y="82" width="27" height="28"/>
+  <rect id="eyeRight" class="cls-1" x="189" y="82" width="27" height="28"/>
+</svg>

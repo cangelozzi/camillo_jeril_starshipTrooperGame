@@ -1,0 +1,23 @@
+<svg id="alien6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 314 221">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f7931e;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>alien6_orange</title>
+  <polygon class="cls-1" points="2 33 2 129 35 129 35 188 66 188 66 219 96 219 96 189 222 189 222 219 250 219 250 187 282 187 282 126 312 126 312 33 280 33 280 95 250 95 250 64 219 64 219 2 249 2 249 35 188 35 188 66 124 66 124 34 64 34 64 2 96 2 96 66 67 66 67 99 33 99 33 33 2 33"/>
+  <rect class="cls-2" x="96" y="97" width="33" height="32"/>
+  <rect class="cls-2" x="188" y="97" width="33" height="32"/>
+</svg>

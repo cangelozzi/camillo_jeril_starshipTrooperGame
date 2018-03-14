@@ -1,0 +1,129 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+.hidden {
+  display: none;
+}
+
+
+/* CLEARFIX */
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+
+/* Game rules */
+
+body {
+  font-family: 'Special Elite', cursive;
+}
+
+#container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+#container h1 {
+  font-size: 28px;
+  font-weight: bolder;
+  text-align: center;
+  margin-top: 40px;
+}
+
+#game {
+  width: 450px;
+  height: 450px;
+  margin: 40px auto;
+}
+
+.game-block {
+  box-sizing: border-box;
+  border: 1px solid #000;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+  margin: 0 5px 5px 0;
+  border-radius: 8px;
+}
+
+.slider {
+  width: 100%;
+  /* double since it will hold the default side and the img side */
+  height: 200%;
+  position: absolute;
+  top: 0;
+}
+
+.slider div {
+  /* div split in half to hold default and hidden img to guess */
+  height: 50%;
+}
+
+
+/* block cover colour */
+
+.slider div:first-child {
+  background-color: rgb(202, 202, 202);
+}
+
+
+/* class to slide up the block and reveal the content (alien) */
+
+.sliderUp div {
+  top: -100%;
+}
+
+
+/* Images attached to the second half of the slider.  REMINDER: first half has the default color set as rgb(202,202,202) */
+
+.block1 {
+  background: url(../images/alien1_black.svg) no-repeat center;
+}
+
+.block2 {
+  background: url(../images/alien2_green.svg) no-repeat center;
+}
+
+.block3 {
+  background: url(../images/alien3_white.svg) no-repeat center;
+}
+
+.block4 {
+  background: url(../images/alien4_red.svg) no-repeat center;
+}
+
+.block5 {
+  background: url(../images/alien5_yellow.svg) no-repeat center;
+}
+
+.block6 {
+  background: url(../images/alien6_orange.svg) no-repeat center;
+}
+
+.block7 {
+  background: url(../images/alien7_purple.svg) no-repeat center;
+}
+
+.block8 {
+  background: url(../images/alien8_pink.svg) no-repeat center;
+}
+
+
+/* END */
+
+#reset-button {
+  padding: 15px;
+  font-size: 22px;
+  margin-top: 40px;
+  border-radius: 8px;
+  background-color: #ff0000;
+  color: #fff;
+}

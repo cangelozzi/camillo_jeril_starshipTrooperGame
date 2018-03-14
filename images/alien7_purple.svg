@@ -1,0 +1,25 @@
+<svg id="alien7" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 234">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f0f;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <title>alien7_purple</title>
+  <polygon class="cls-1" points="100 2 170 2 170 31 191 31 191 53 257 53 257 149 158 149 158 167 268 167 268 232 224 232 224 184 194 184 194 232 150 232 150 183 119 183 119 232 75 232 75 183 45 183 45 232 2 232 2 165 113 165 113 149 11 149 11 50 81 50 81 31 100 31 100 2"/>
+  <path class="cls-2" d="M257,183.15s23.08-13.84,49.23,0l.77,37.7s-21.54,13.84-50,0Z" transform="translate(-192 -104)"/>
+  <path class="cls-2" d="M343.15,183.15s23.08-13.84,49.23,0l.77,37.7s-21.53,13.84-50,0Z" transform="translate(-192 -104)"/>
+</svg>

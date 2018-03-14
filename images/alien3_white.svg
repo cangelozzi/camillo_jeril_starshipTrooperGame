@@ -1,0 +1,19 @@
+<svg id="alien3" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 262.94 262.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <title>alien3_white</title>
+  <path class="cls-1" d="M174,329s-1,36,0,36h37V334.5h26.5v30h38v-30h57v30h37L370,333h26l-.5,31.5h37v-36h-32v-32h-33v-26h65v-69h-32v-31h-32v-32h-31v-32h-69v32h-31v32h-31v32h-31v68h62v25h-31v33Z" transform="translate(-171.56 -104.5)"/>
+  <rect id="alienLeftEye" x="68.94" y="99" width="32" height="32"/>
+  <rect id="alienRightEye" x="164.44" y="99.5" width="32" height="32"/>
+  <rect id="alienLeftSide" x="68.44" y="197.5" width="32" height="29"/>
+  <rect id="alienRightSide" x="163.44" y="197.5" width="32" height="29"/>
+  <rect id="alienNose" x="101.44" y="162.5" width="62" height="32"/>
+</svg>

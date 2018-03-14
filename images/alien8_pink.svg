@@ -1,0 +1,23 @@
+<svg id="alien8" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 252 213">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff7bac;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>alien8_pink</title>
+  <polygon class="cls-1" points="2 14 26 14 26 87 46 87 46 23 82 23 82 2 106 2 106 25 150 25 150 2 169 2 169 25 208 25 208 87 231 87 231 15 250 15 250 108 208 108 155 145 155 166 184 166 185 211 159 211 158 192 98 192 97 211 69 211 70 166 96 166 96 142 44 106 2 106 2 14"/>
+  <rect class="cls-2" x="80" y="48" width="29" height="29"/>
+  <rect class="cls-2" x="144" y="48" width="29" height="29"/>
+</svg>
