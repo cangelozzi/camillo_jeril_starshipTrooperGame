@@ -36,6 +36,10 @@ body {
   margin-top: 40px;
 }
 
+#container h1 span {
+  color: rgb(36, 136, 44);
+}
+
 #game {
   width: 450px;
   height: 450px;
@@ -115,9 +119,6 @@ body {
 .block8 {
   background: url(../images/alien8_pink.svg) no-repeat center;
 }
-
-
-/* END */
 
 #reset-button {
   padding: 15px;
