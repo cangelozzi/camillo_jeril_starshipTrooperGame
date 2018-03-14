@@ -20,6 +20,7 @@ LOSE SITUATION
 The player will not match the alien bug type/color after clicking in two blocks.  The blocks will close, and player must memorize the position and what was inside the block.
 
 
+![image](images/readMeImg.png)
 
 
 
