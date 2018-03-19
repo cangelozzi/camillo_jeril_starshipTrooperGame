@@ -64,6 +64,7 @@ body {
   height: 200%;
   position: absolute;
   top: 0;
+  transition: 400ms;
 }
 
 .slider div {
@@ -75,7 +76,7 @@ body {
 /* block cover colour */
 
 .slider div:first-child {
-  background-color: rgb(202, 202, 202);
+  background-color: rgb(32, 114, 38);
 }
 
 
