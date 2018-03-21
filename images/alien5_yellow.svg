@@ -1,20 +1,27 @@
-<svg id="alien5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 263 119.01">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #ff0;
-        stroke: #000;
-        stroke-miterlimit: 10;
-        stroke-width: 4px;
-      }
-    </style>
-  </defs>
-  <title>alien5_yellow</title>
-  <polygon class="cls-1" points="81.5 2.51 81.5 17.51 51.5 17.51 51.5 34.01 35 34.01 35 50.01 19 50.01 19 65.01 2 65.01 2 87.01 35 87.01 35 102.01 51 102.01 51 117.01 72 117.01 72 102.01 89 102.01 89 88.01 112 88.01 112 102.01 152 102.01 152 87.01 176 87.01 176 102.01 192 102.01 192 117.01 214 117.01 214 102.01 229 102.01 229 86.01 261 86.01 261 64.01 244 64.01 244 49.01 228 49.01 228 32.01 213 32.01 213 17.01 181 17.01 181 2.01 81.5 2.51"/>
-  <g id="eyes">
-    <rect x="52" y="52.01" width="17" height="17"/>
-    <rect x="99.5" y="51.51" width="17" height="17"/>
-    <rect x="146.5" y="51.51" width="17" height="17"/>
-    <rect x="194.5" y="51.51" width="17" height="17"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="yellow_bug" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 640 480" style="enable-background:new 0 0 640 480;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFF00;stroke:#000000;stroke-width:2.8515;stroke-miterlimit:10;}
+	.st1{stroke:#000000;stroke-width:2.8515;stroke-miterlimit:10;}
+	.st2{stroke:#000000;stroke-width:11.4059;stroke-miterlimit:10;}
+</style>
+<polyline class="st0" points="288.3,207.9 288.3,270.7 308.3,270.7 311.1,270.7 311.1,282.1 319.7,282.1 319.7,290.6 331.1,290.6 
+	331.1,302 351,302 351,290.6 362.5,290.6 362.5,282.1 371,282.1 371,270.7 393.8,270.7 393.8,239.3 393.8,207.9 382.4,207.9 
+	382.4,168 371,168 371,199.4 351,199.4 351,188 331.1,188 331.1,199.4 308.3,199.4 308.3,168 299.7,168 299.7,207.9 288.3,207.9 "/>
+<rect x="352.5" y="178" class="st1" width="8.6" height="8.6"/>
+<rect x="321.1" y="178" class="st1" width="8.6" height="8.6"/>
+<rect x="396.7" y="173.7" class="st1" width="8.6" height="31.4"/>
+<line class="st2" x1="265.5" y1="249.3" x2="265.5" y2="280.6"/>
+<rect x="278.3" y="229.3" width="11.4" height="11.4"/>
+<rect x="269.8" y="240.7" width="8.6" height="8.6"/>
+<rect x="392.4" y="229.3" width="11.4" height="11.4"/>
+<rect x="403.8" y="240.7" width="11.4" height="11.4"/>
+<line class="st2" x1="420.9" y1="252.1" x2="420.9" y2="283.5"/>
+<rect x="276.9" y="176.6" class="st1" width="8.6" height="31.4"/>
+<line class="st2" x1="398.1" y1="272.1" x2="398.1" y2="303.4"/>
+<line class="st2" x1="284" y1="272.1" x2="284" y2="303.4"/>
+<rect x="289.7" y="303.4" width="8.6" height="8.6"/>
+<rect x="383.8" y="303.4" width="8.6" height="8.6"/>
 </svg>
