@@ -207,5 +207,5 @@
 
   // initialize game function
   setupGame();
-  console.log(resetButton)
+  
 })();
