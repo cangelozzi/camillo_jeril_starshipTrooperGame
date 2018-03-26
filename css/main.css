@@ -6,7 +6,6 @@
   display: none;
 }
 
-
 /* CLEARFIX */
 
 .clearfix:after {
@@ -17,11 +16,11 @@
   height: 0;
 }
 
-
 /* Game rules */
 
 body {
-  font-family: 'Special Elite', cursive;
+  font-family: "Special Elite", cursive;
+  background: url(../images/bckgrd.png);
 }
 
 #container {
@@ -56,6 +55,7 @@ body {
   display: inline-block;
   margin: 0 5px 5px 0;
   border-radius: 8px;
+  background-color: #fff;
 }
 
 .slider {
@@ -72,20 +72,17 @@ body {
   height: 50%;
 }
 
-
 /* block cover colour */
 
 .slider div:first-child {
   background-color: rgb(32, 114, 38);
 }
 
-
 /* class to slide up the block and reveal the content (alien) */
 
 .sliderUp div {
   top: -100%;
 }
-
 
 /* Images attached to the second half of the slider.  REMINDER: first half has the default color set as rgb(202,202,202) */
 
@@ -128,5 +125,78 @@ body {
   border-radius: 8px;
   background-color: #ff0000;
   color: #fff;
-  font-family: 'Special Elite', cursive;
+  font-family: "Special Elite", cursive;
+}
+
+#countdown {
+  margin-top: 20px;
+}
+
+#countdown p {
+  font-weight: bolder;
+}
+
+#countdown span {
+  color: red;
+  font-size: 36px;
+}
+
+video {
+  margin: 0 auto;
+  width: 100%;
+  padding-top: 40px;
+}
+
+#start-button {
+  padding: 15px;
+  font-size: 22px;
+  margin-top: 30px;
+  border-radius: 8px;
+  background-color: #ff8800;
+  color: #000;
+  font-family: "Special Elite", cursive;
+}
+
+#rules {
+  margin-top: 20px;
+  color: #fff;
+}
+
+#rulesTitle {
+  font-weight: bolder;
+  margin-bottom: 5px;
+  letter-spacing: 4px;
+  color: #ff8800;
+  font-weight: 18px;
+}
+
+#startBtn,
+#clearBtn {
+  text-align: center;
+}
+
+#gamePage {
+  color: #fff;
+}
+
+#lost {
+  opacity: 0.5;
+  position: absolute;
+  top: 60px;
+  left: 160px;
+}
+
+.noVisible {
+  visibility: hidden;
+}
+
+#lost img {
+  width: 86%;
+}
+
+#victory {
+  opacity: 0.9;
+  position: absolute;
+  top: 60px;
+  left: 160px;
 }
