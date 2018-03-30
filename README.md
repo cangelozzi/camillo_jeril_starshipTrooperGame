@@ -16,7 +16,7 @@ The Game Introduction Page was created using Adobe After Effect, beside a looped
 **GAME LAYOUT**
 The game is structured in a four-by-four grid.  The grid will have 16 blocks, and in each block, there will be an alien bug hidden.
 
-![image](images/readMeImg.png)
+![image](images/readMeGameImg.png)
 
 **GAME MECHANIC**
 Player will need to search for the alien bugs pair hidden in the blocks.  Clicking in each block, an alien bug will be revealed; the player will need to memorize the alien color and position, trying to find the matching block with the same type/color of alien bug.  
