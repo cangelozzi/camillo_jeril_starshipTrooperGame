@@ -23,6 +23,18 @@ body {
   background: url(../images/bckgrd.png);
 }
 
+#rules span {
+  color: gold;
+}
+
+#rules span:last-child {
+  color: mediumpurple;
+}
+
+#rules span:first-child {
+  color: hotpink;
+}
+
 #container {
   width: 960px;
   margin: 0 auto;
@@ -166,7 +178,7 @@ video {
   font-weight: bolder;
   margin-bottom: 5px;
   letter-spacing: 4px;
-  color: #ff8800;
+  color: forestgreen;
   font-size: 18px;
 }
 

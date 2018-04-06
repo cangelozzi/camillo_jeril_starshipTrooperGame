@@ -6,7 +6,9 @@ Build with HTML5, CSS3 and Javascript.
 
 Contributors: **Camillo Angelozzi** and **Jeril Kadvan**.
 
-*“…a requirement for a good soldier is to focus, remind, and have a high degree of concentration…alien bugs are everywhere, we need to seek and destroy them…”*
+*“…a requirement for a good soldier is to focus, remind, and have a high degree of concentration…
+
+In the United Citizen Federation, civilians and citizens are tested for psychic abilities. Of those whom possess these abilities and pass a certain test, statuses are usually obtained within the Federal Armed Services, usually as an officer. It is assumed that a Psychic is usually offered with a position in Military Intelligence…”*
 
 **INTRO TO GAME**
 The Game Introduction Page was created using Adobe After Effect, beside a looped animation, it includes some basic rules to follow.
